@@ -20,7 +20,7 @@ ini adalah akun github ku, yah bahkan aku tidak tau harus apa :-:
   <img src="https://files.catbox.moe/szp6b6.jpg" width="200" 
 </p>
   <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiro-nesu&color=brightgreen&style=plastic&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=shiro-nesu&color=green&style=plastic&label=Dilihat" alt="Profile">
 </div>
 <br> 
 Hai! <br>
