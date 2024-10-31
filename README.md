@@ -7,6 +7,8 @@
 ini adalah akun github ku, yah bahkan aku tidak tau harus apa :-:
 
 ### About Me <🪻>
+
+
 > Nama   : Shiro <br>
 > Age    : 11 (tahun² lalu) <br>
 > Gender : unknown <br>
@@ -22,12 +24,10 @@ ini adalah akun github ku, yah bahkan aku tidak tau harus apa :-:
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shiro-nesu&color=green&style=plastic&label=Dilihat" alt="Profile">
 </div>
+
 <br> 
 Hai! <br>
-Terimakasih sudah berkunjung, aku senang bisa hidup di dunia ini dan bertemu banyak teman walaupun mereka bisa pergi kapan saja, namun waktu yang sudah di habiskan sangat berharga. Kadang memang kita bisa melakukan hal konyol atau memalukan tapi walau begitu jangan pikirkan komentar buruk dari orang lain, cukup jadi dirimu sendiri dan nikmati waktu bersama orang-orang yang menghargai kita ><
-<br> 
 
-> Jika kamu percaya pada seseorang, kamu juga harus menerima resiko di hianati.
 ### Thank You <🪷>
 Neko punch! ta ta ta ta ta
 <br><br>
