@@ -1,0 +1,13 @@
+// gtau db doang
+{
+  "users": [
+    {
+      "username": "shiro",
+      "password": "nesu"
+    },
+    {
+      "username": "mizu",
+      "password": "nesu"
+    }
+  ]
+}
