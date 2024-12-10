@@ -15,6 +15,7 @@ ini adalah akun github ku, yah bahkan aku tidak tau harus apa :-:
 > Hobi   : yah aku punya banyak <br>
 > Skill  : Makan, Tidur, Adaptasi.
 
+Follow https://github.com/devorsixcore
 ### Short story <🌿>
 
 
