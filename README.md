@@ -3,10 +3,16 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFA5C2&center=true&vCenter=true&width=435&lines=Minasan%2C+youkoso~+%F0%9F%8C%B8;Aku+serius+gatau+apa+yang+aku+buat;Enjoy+your+stay~+%E2%9C%A8" alt="Typing SVG" />
+  <!-- Creepster -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&duration=4000&pause=500&color=DC143C&center=true&vCenter=true&width=435&lines=Minasan%2C+youkoso~+%F0%9F%91%BB;Selamat+datang;yap" alt="Typing Creepster" />
 </h1>
 
-<p align="center"><i>Sebuah dunia kecil, penuh imajinasi dan tidur siang 🍃</i></p>
+<h2 align="center">
+  <!-- Nosifer -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nosifer&duration=5000&pause=700&color=8B0000&center=true&vCenter=true&width=480&lines=yeah;ups" alt="Typing Nosifer" />
+</h2>
+
+<p align="center"><i>Sebuah dunia kecil, penuh imajinasi... 🍂</i></p>
 
 ---
 
@@ -17,7 +23,7 @@
 
   <img src="https://media.tenor.com/5u1l0SoFXN8AAAAC/book-anime.gif" width="200" align="right">
 
-  > “Aku bukan karakter utama. Tapi kadang, aku merasa seperti latar belakang yang bikin cerita terasa hangat.”
+  > “Aku bukan karakter utama.”
 </details>
 
 ---
@@ -33,8 +39,7 @@
 </p>
 
 > Dunia ini absurd. Tapi Shiro? Lebih absurd.  
-> Kadang sunyi, kadang ramai. Tapi hatiku tetap berbunga-bunga.  
-> Terima kasih sudah datang ke dimensi kecil ini. 🌌
+> ya
 
 ---
 
