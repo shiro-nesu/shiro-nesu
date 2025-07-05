@@ -34,6 +34,19 @@ Halo semua
 > Hobi : menjahili orang
 > 
 ---
+<table align="center">
+  <tr>
+    <td><img src="https://files.catbox.moe/pum6jh.jpg" width="150px" /></td>
+    <td><img src="https://files.catbox.moe/s7knrm.jpg" width="150px" /></td>
+    <td><img src="https://files.catbox.moe/dbmj4b.jpg" width="150px" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://files.catbox.moe/xel2zf.jpg" width="150px" /></td>
+    <td><img src="https://files.catbox.moe/8uareq.jpg" width="150px" /></td>
+    <td><img src="https://files.catbox.moe/ncnacn.jpg" width="150px" /></td>
+  </tr>
+</table>
+
 ### 🍃 Little Story
 
 <p align="center">
