@@ -6,6 +6,11 @@
 </h2>
 
 Halo semua
+<p align="center">
+  <img src="https://files.catbox.moe/mnl4an.jpg" width="150px" alt="Ryuki Avatar" />
+  <br/>
+  <i>⚡ Tactical Recon – RYUKI</i>
+</p>
 
 <h1 align="center">
   <!-- Creepster -->
