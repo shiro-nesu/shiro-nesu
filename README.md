@@ -50,7 +50,7 @@ Halo semua
 ### 🍃 Little Story
 
 <p align="center">
-<img src="https://files.catbox.moe/szp6b6.jpg" width="200" />
+<img src="https://files.catbox.moe/8b3dbb.png" width="200" />
 </p>
 
 <p align="center">
