@@ -48,18 +48,20 @@ Halo semua
 </table>
 
 ### 🍃 Little Story
-
 <p align="center">
-<img src="https://files.catbox.moe/8b3dbb.png" width="200" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&duration=4000&pause=500&color=228B22&center=true&vCenter=true&width=400&lines=Ryuki+Recon+Ops;Valdora+Mission+Ready"/>
+</p>
+<p align="center">
+<img src="https://files.catbox.moe/lisnbf.png" width="200" />
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shiro-nesu&color=green&style=plastic&label=Dilihat" alt="Profile Views"/>
 </p>
 
-> Dunia ini absurd. Tapi Shiro? Lebih absurd.  
-> ya
-
+<p>
+  Hai namaku <mark>Reva</mark>. Aku adalah <code>seorang npc</code> yang tinggal di Valdora. Kadang, orang-orang memanggilku <mark>Shiro</mark>, dan tugasku adalah menjaga <code>rune utama</code> dari ancaman luar.
+</p>
 ---
 
 ### 🧭 Jejak Digital
