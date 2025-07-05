@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="https://files.catbox.moe/q7ihpu.jpg" width="500px" alt="Yōkoso">
+  <img src="https://files.catbox.moe/w7qppn.jpg" width="500px" alt="Yōkoso">
 </p>
 <h2 align="center" style="color:#556B2F">
-  Shiro | Fade Not Fall 🍫
+  Shiro | Fade Not Fall 🌦
 </h2>
 
 Halo semua
 <p align="center">
   <img src="https://files.catbox.moe/mnl4an.jpg" width="150px" alt="Ryuki Avatar"/>
   <br/>
-  <i>⚡ Tactical Recon – RYUKI</i>
+  <sup>🌐 L.U.C.I.A - Tactical Recon</sup>
 </p>
+
 
 <h1 align="center">
   <!-- Creepster -->
