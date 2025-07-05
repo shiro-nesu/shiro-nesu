@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://files.catbox.moe/q7ihpu.jpg" width="500px" alt="Yōkoso">
 </p>
+<h2 align="center" style="color:#556B2F">
+  Shiro | Fade Not Fall 🍫
+</h2>
+
+Halo semua
 
 <h1 align="center">
   <!-- Creepster -->
