@@ -16,12 +16,7 @@
   <sup>🌐 L.U.C.I.A - Tactical Recon</sup>
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nosifer&duration=5000&pause=700&color=8B0000&center=true&vCenter=true&width=480&lines=Projek+kecilku;Hanya+bersenang-senang+dan;Mencari+hiburan" alt="Typing Nosifer" />
-</p>
-
-<p align="center"><i>Sebuah dunia kecil, penuh imajinasi... 🍂</i></p>
+<p align="center"><i>Sebuah dunia kecil, penuh Kebohongan... 🍂</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=plastic" />
@@ -77,22 +72,21 @@
 ### 🍄 Social Media
 
 - 🐾 GitHub: [`@shiro-nesu`](https://github.com/shiro-nesu)
-- 🧪 Senpai keren: [`@devorsixcore`](https://github.com/devorsixcore)
-- 🌌 Coming soon: dunia interaktif bernama `Valdora` (psst... rahasia dulu)
+- 🧪 Friend: [`@devorsixcore`](https://github.com/devorsixcore)
+- 🌌 Comunity: [`@lucia-information`](https://whatsapp.com/channel/0029Vb3ecTH6GcGBZIDJ3H2M)
 
 ---
 
-### 💐 Terima Kasih Telah Singgah
+### 🍬 Terima Kasih Telah Singgah
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="40" />
 </p>
 
 > *Neko punch! ta ta ta ta ta~!*  
-> *Jangan lupa minum air ya... atau rebahan dulu juga nggak apa-apa*
 
 <p align="center">
-  <img src="https://ella.janitorai.com/events/ket.webp" width="300px">
+  <img src="https://ella.janitorai.com/events/ket.webp" width="150px">
 </p>
 
 > *I should go back to bed... nice to meet you.*   
