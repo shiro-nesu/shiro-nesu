@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <!-- Creepster -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&duration=4000&pause=500&color=DC143C&center=true&vCenter=true&width=435&lines=Minasan%2C+youkoso~+%F0%9F%91%BB;Selamat+datang;yap" alt="Typing Creepster" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&duration=4000&pause=500&color=DC143C&center=true&vCenter=true&width=435&lines=Minasan%2C+youkoso~+%F0%9F%91%BB;Selamat+datang+di+profile+githubku;Yap+isinya+yapping" alt="Typing Creepster" />
 </h1>
 
 <h2 align="center">
@@ -16,18 +16,14 @@
 
 ---
 
-### 🌸 Tentang Aku
+### Tentang Aku 💬
 
-<details>
-  <summary><strong>📚 Buka Buku Bio-ku (klik ya!)</strong></summary><br>
-
-  <img src="https://media.tenor.com/5u1l0SoFXN8AAAAC/book-anime.gif" width="200" align="right">
-
-  > “Aku bukan karakter utama.”
-</details>
-
+> Namaku reva atau di dunia virtual ini lebih biasa di sebut shiro.
+ Umur : 11 tahun 
+> Gender : she/he's 
+> Hobi : menjahili orang
+> 
 ---
-
 ### 🍃 Little Story
 
 <p align="center">
