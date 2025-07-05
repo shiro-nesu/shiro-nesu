@@ -7,7 +7,7 @@
 
 Halo semua
 <p align="center">
-  <img src="https://files.catbox.moe/mnl4an.jpg" width="150px" alt="Ryuki Avatar" />
+  <img src="https://files.catbox.moe/mnl4an.jpg" width="150px" alt="Ryuki Avatar"/>
   <br/>
   <i>⚡ Tactical Recon – RYUKI</i>
 </p>
@@ -34,7 +34,7 @@ Halo semua
 > Hobi : menjahili orang
 > 
 ---
-<table align="center">
+<table align="center" border="1" cellpadding="5" cellspacing="0" style="border:2px solid #9d00ff; border-collapse: collapse;">
   <tr>
     <td><img src="https://files.catbox.moe/pum6jh.jpg" width="150px" /></td>
     <td><img src="https://files.catbox.moe/s7knrm.jpg" width="150px" /></td>
